@@ -1,3 +1,5 @@
+> New project, might be utterly unusable
+
 # Axolotl
 
 **Axolotl** is a self-hosted, highly configurable Minecraft server manager. It supports multiple server types (Vanilla, Forge, Fabric), different Java versions, mods, resource packs, and more, making it easy to set up and manage advanced Minecraft servers.
